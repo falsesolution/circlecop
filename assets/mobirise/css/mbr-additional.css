@@ -710,6 +710,9 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s3FHWOWtwx {
+  background-image: url("../../../assets/images/cop-cancelled.jpg");
+}
 .cid-s3B8vlszBP {
   background-image: url("../../../assets/images/queue.webp");
 }
@@ -722,9 +725,6 @@ section.lazy-placeholder:after {
 }
 .cid-s3FE4IjEHI {
   background-image: url("../../../assets/images/screenshot-2020-06-24-at-13.02.08.png");
-}
-.cid-s3FHWOWtwx {
-  background-image: url("../../../assets/images/cop-cancelled.jpg");
 }
 .cid-s3FpYSBfpi {
   background-image: url("../../../assets/images/chase-fire.jpg");
