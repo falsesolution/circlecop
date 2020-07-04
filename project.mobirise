@@ -38,12 +38,6 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.4",
     "siteFonts": [],
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": true,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "favicon": false,
     "imageResize": false,
     "robotsSwitcher": false,
@@ -51,6 +45,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 6,
     "versionPublish": "4.12.4"
   },
