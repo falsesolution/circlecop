@@ -1,2 +1,2 @@
-# endcop
+# circlecop
 enough is enough 
