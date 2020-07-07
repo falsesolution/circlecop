@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Druk';
+   font-display: swap;
+   src: url('Druk/font.ttf');
+}
+@font-face {
+   font-family: 'DomaineDisplay';
+   font-display: swap;
+   src: url('DomaineDisplay/font.ttf');
+}

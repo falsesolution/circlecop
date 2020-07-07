@@ -1,14 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-
-
-
-
-
 body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Druk';
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -16,7 +10,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Druk';
   font-size: 3rem;
   font-display: swap;
 }
@@ -24,7 +18,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'DomaineDisplay';
   font-size: 1rem;
   font-display: swap;
 }
@@ -32,7 +26,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'DomaineDisplay';
   font-size: 1.4rem;
   font-display: swap;
 }
@@ -40,7 +34,7 @@ body {
   font-size: 2.24rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'DomaineDisplay';
   font-size: 1rem;
   font-display: swap;
 }
@@ -546,7 +540,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'DomaineDisplay';
   font-size: 1rem;
   font-display: swap;
 }
